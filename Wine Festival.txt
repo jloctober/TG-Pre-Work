@@ -29,14 +29,34 @@
       </thead>
       <tbody>
         <tr> <!-- Row1 -->
+          <td class="left">
+            <h3>12:00 PM</h3>
+          </td>
+          <td></td>
         </tr>
         <tr> <!-- Row2 -->
+          <td class="left">
+            <h3>01:00 PM</h3>
+          </td>
+          <td></td>
         </tr>
         <tr> <!-- Row3 -->
+          <td class="left">
+            <h3>02:00 PM</h3>
+          </td>
+          <td></td>
         </tr>
         <tr> <!-- Row4 -->
+          <td class="left">
+            <h3>03:00 PM</h3>
+          </td>
+          <td></td>
         </tr>
         <tr> <!-- Row5 -->
+          <td class="left">
+            <h3>04:00 PM</h3>
+          </td>
+          <td></td>
         </tr>
       </tbody>
     </table>
