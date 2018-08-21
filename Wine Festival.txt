@@ -23,8 +23,8 @@
           </th>
         </tr>
         <tr>
-          <th>Time</th>
-          <th>Event</th>
+          <th><h2>Time</h2></th>
+          <th><h2>Event</h2></th>
         </tr>
       </thead>
       <tbody>
