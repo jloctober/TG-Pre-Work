@@ -32,31 +32,41 @@
           <td class="left">
             <h3>12:00 PM</h3>
           </td>
-          <td></td>
+          <td>
+            <h3>Welcome Reception</h3>
+          </td>
         </tr>
         <tr> <!-- Row2 -->
           <td class="left">
             <h3>01:00 PM</h3>
           </td>
-          <td></td>
+          <td>
+            <h3>Storytelling & Tasting</h3>
+          </td>
         </tr>
         <tr> <!-- Row3 -->
           <td class="left">
             <h3>02:00 PM</h3>
           </td>
-          <td></td>
+          <td>
+            <h3>Wine Luncheon</h3>
+          </td>
         </tr>
         <tr> <!-- Row4 -->
           <td class="left">
             <h3>03:00 PM</h3>
           </td>
-          <td></td>
+          <td>
+            <h3>Aguillar Family Wines</h3>
+          </td>
         </tr>
         <tr> <!-- Row5 -->
           <td class="left">
             <h3>04:00 PM</h3>
           </td>
-          <td></td>
+          <td>
+            <h3>Wine and Cheese Tasting</h3>
+          </td>
         </tr>
       </tbody>
     </table>
