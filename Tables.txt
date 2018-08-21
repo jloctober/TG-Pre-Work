@@ -7,6 +7,15 @@
 </head>
 <body>
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ship To It - Company Packing List</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato: 100,300,400,700|Luckiest+Guy|Oxygen:300,400" rel="stylesheet">
+  <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
   <ul class="navigation">
     <li><img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-9/htmlcss1-img_logo-shiptoit.png" height="20px;"></li>
     <li class="active">Action List</li>
@@ -16,6 +25,8 @@
 
   <div class="search">Search the table</div>
   <table>
+    <tr>
+    </tr>
     <tr>
       <th scope="col">Company Name</th>
       <th scope="col">Number of Items to Ship</th>
@@ -30,8 +41,6 @@
       <td>Davie's Burgers</td>
       <td>2</td>
       <td>Send Invoice</td>
-    </tr>
-    <tr>
       <td>Baker's Bike Shope</td>
       <td>3</td>
       <td>Send Invoice</td>
@@ -46,16 +55,11 @@
       <td>1</td>
       <td>Enter Order</td>
     </tr>
-    
-  </table>
-
-
-
-</body>
-</html>dam's Greenworks</td>
-      <td>14</td>
-      <td>PackageItems</td>
+     <td colspan="2">
+    <tr>
+      
     </tr>
+    
   </table>
 
 
