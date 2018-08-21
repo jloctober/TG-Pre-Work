@@ -50,9 +50,15 @@
       <td>Enter Order</td>
     </tr>
     </tbody>
+    <tfoot>
+      <tr>
+        <td>Total</td>
+        <td>28</td>
+      </tr>
+    </tfoot>
     <tr>
-      <td colspan="2">Two Columns</td>
-      <td rowspan="2">Two Rows</td>
+      <td colspan="2"></td>
+      <td rowspan="2"></td>
     </tr>
     <tr>
       <td></td>
