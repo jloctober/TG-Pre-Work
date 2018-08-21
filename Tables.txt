@@ -18,6 +18,7 @@
   <table>
     <tr>
     </tr>
+    <tbody>
     <tr>
       <th scope="col">Company Name</th>
       <th scope="col">Number of Items to Ship</th>
@@ -48,6 +49,7 @@
       <td>1</td>
       <td>Enter Order</td>
     </tr>
+    </tbody>
     <tr>
       <td colspan="2">Two Columns</td>
       <td rowspan="2">Two Rows</td>
@@ -55,6 +57,16 @@
     <tr>
       <td></td>
       <td></td>
+      <td></td>
+    </tr>
+
+    
+  </table>
+
+
+
+</body>
+</html>
       <td></td>
     </tr>
 
