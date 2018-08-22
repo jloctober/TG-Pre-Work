@@ -13,3 +13,6 @@ img {
 p.time {
   color: gray;
 }
+.external-link {
+  color: SeaGreen;
+}
