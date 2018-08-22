@@ -22,17 +22,18 @@ body {
 }
 
 #banner {
-  height: 700px;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
   background-size: cover;
   background-position: bottom center;
+  height: 700px;
   width: 100%;
 }
 
 #banner .content h1 {
-  width: 400px;
+  border: 3px solid white
   position: relative;
   top: 50px;
+  width: 400px;
   margin: 0 auto;
 }
 
@@ -50,6 +51,7 @@ h1 {
 }
 
 h2 {
+  border: 1px dotted red
   color: red;
   font-size: 14px;
   line-height: 48px;
@@ -70,7 +72,6 @@ p {
 }
 
 .pull-quote {
-  width: 350px;
 }
 
 .byline {
@@ -95,51 +96,6 @@ p {
   border-radius: 3px;
   color: white;
   display: inline-block;
-  text-decoration: none;
-}
-
-.share a:hover {
-  background: white;
-  border: 1px solid red;
-  color: red;
-}
-p {
-  color: grey;
-  font-size: 16px;
-  line-height: 48px;
-  margin-top: 60px;
-  padding: 10px 20px;
-}
-
-.pull-quote {
-  margin: 0 auto;
-  width: 400px;
-}
-
-.byline {
-  border-bottom: 1px solid LightGrey;
-  border-top: 1px solid LightGrey;
-  color: DarkGrey;
-  font-size: 14px;
-  font-weight: 200;
-}
-
-.share {
-  border: 1px solid LightGrey;
-  padding: 40px 0px;
-  position: relative;
-  text-align: center;
-  width: 100%;
-}
-
-.share a {
-  background: red;
-  border: 1px solid red;
-  border-radius: 3px;
-  color: white;
-  display: inline-block;
-  margin: 10px;
-  padding: 14px;
   text-decoration: none;
 }
 
