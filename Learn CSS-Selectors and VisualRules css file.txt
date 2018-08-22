@@ -50,6 +50,7 @@ p {
 }
 
 .caption {
+  opacity: 0.75;
   background-color: white;
   color: black;
   display: block;
@@ -63,19 +64,6 @@ p {
   top: 80%;
   width: 60%;
 }
-
-.content {
-  padding: 40px;
-}
-
-.image {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
-  background-size: cover;
-  background-position: center;
-  height: 300px;
-}
-
-.writer-img {
   -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
   -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
   box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
