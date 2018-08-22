@@ -127,3 +127,6 @@ p {
   color: #D7263D;
   animation: ease;
 }
+.class {
+  visibility: hidden;
+}
