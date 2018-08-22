@@ -7,3 +7,9 @@ img {
 #cook-time {
   font-weight: bold;
 }
+.ingredients li {
+  list-style: square;
+}
+p.time {
+  color: gray;
+}
