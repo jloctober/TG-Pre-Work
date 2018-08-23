@@ -163,4 +163,9 @@ a.home {
   a.home {
     display: none;
   }
-}
+  .garamond .sample .text {
+    font-family: "Garamond", serif;
+  }
+  .helvetica .sample .text {
+    font-family: "Helvetica", sans-serif;
+  }
