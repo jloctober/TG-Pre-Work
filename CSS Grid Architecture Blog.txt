@@ -21,6 +21,7 @@ img {
   height: 3000px;
   margin: auto;
   grid-template: repeat(30, 1fr) / repeat(12, 1fr);
+  border: 1px solid black;
 
 }
 
@@ -43,6 +44,7 @@ img {
 /* set 2: angles */
 
 .d {
+  grid-area: 5 / 1 / 12 / 7
 
 }
 
@@ -57,6 +59,7 @@ img {
 /* set 3: pattern play */
 
 .g {
+  grid-area: 11 / 3 / 16 / 13;
 
 }
 
@@ -71,6 +74,7 @@ img {
 /* set 4: healing house */
 
 .j {
+  grid-area: 15 / 1 / 22 / 7;
 
 }
 
@@ -85,6 +89,7 @@ img {
 /* set 5: curved perfection */
 
 .m {
+  grid-area: 21 / 3 / 27 / 13;
 
 }
 
