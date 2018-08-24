@@ -239,7 +239,7 @@ h1 {
 /* Red Swatches */
 
 .reds .base-color {
-  color: #ff002b;
+  color: hsl(350, 100%, 50%);
 }
 
 /* Red lightness decreases by 15 */
