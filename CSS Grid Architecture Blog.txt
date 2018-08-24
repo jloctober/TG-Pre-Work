@@ -10,6 +10,9 @@ img {
   width: 90%;
   margin: auto;
 }
+.d, .e, .f, .g, .h, .i, .j, .k, .l, .m, .n, .o {
+  display: none;
+}
 
 
 .grid {
@@ -23,6 +26,7 @@ img {
 
 /* set 1: repurposed living */
 .a {
+  grid-area: 1 / 5 / 3 / 13;
 
 }
 
