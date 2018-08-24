@@ -9,6 +9,7 @@ body {
 
 
 .grid {
+  display: grid;
 
 }
 
