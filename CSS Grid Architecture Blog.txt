@@ -2,6 +2,10 @@ body {
   font-size: 1.2em;
 }
 
+img {
+  max-width: 100%;
+}
+
 #app {
   width: 90%;
   margin: auto;
@@ -13,6 +17,7 @@ body {
   width: 900px;
   height: 3000px;
   margin: auto;
+  grid-template: repeat(30, 1fr) / repeat(12, 1fr);
 
 }
 
