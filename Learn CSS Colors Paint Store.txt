@@ -312,7 +312,7 @@ h1 {
 /* Green Swatches */
 
 .greens .base-color {
-  color: #00ff2a;
+  color: hsl(130, 100, 50);
 }
 
 /* Green lightness decreases by 20 */
@@ -384,7 +384,7 @@ h1 {
 /* Blue Swatches */
 
 .blues .base-color {
-  color: #0055ff;
+  color: hsl(220, 100, 50);
 }
 
 /* Blue lightness decreases by 20 */
