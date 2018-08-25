@@ -1,3 +1,16 @@
-let myName = "John";
-let myCity = "Louisvile";
-console.log(`My name is ${myName}. My favorite city is ${myCity}.`);
+// temperature that will remain constant
+const kelvin = 300;
+//converting temperature to celcius
+const celcius = kelvin - 273;
+// converts temperature from celcius to fahrenheit
+let fahrenheit = celcius * (9/5) + 32;
+//Newton
+let newton = celcius * (33/100);
+//rounding down newton to integer
+newton = Math.floor(newton);
+//rounding down to integer from decimal
+fahrenheit = Math.floor(fahrenheit);
+
+
+console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`);
+console.log(`The temperature is ${newton} degreesNewton.`);
