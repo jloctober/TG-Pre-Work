@@ -1,2 +1,4 @@
-console.log("pepperoni");
-console.log("Back to the Future");
+console.log("JavaScript");
+console.log(33.7);
+console.log(true);
+console.log(null);
