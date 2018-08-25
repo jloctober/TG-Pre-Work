@@ -8,6 +8,7 @@ header {
   background-color: #333333;
   position: fixed;
   width: 100%;
+  z-index:2;
 }
 
 nav {
@@ -22,10 +23,12 @@ nav li {
   font-weight: 600;
   font-size: 12px;
   display: inline-block;
+  width: 80px;
 }
 
 main {
   text-align: center;
+  position: relative;
 }
 
 main h1 {
