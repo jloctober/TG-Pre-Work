@@ -1,16 +1,22 @@
-// temperature that will remain constant
-const kelvin = 300;
-//converting temperature to celcius
-const celcius = kelvin - 273;
-// converts temperature from celcius to fahrenheit
-let fahrenheit = celcius * (9/5) + 32;
-//Newton
-let newton = celcius * (33/100);
-//rounding down newton to integer
-newton = Math.floor(newton);
-//rounding down to integer from decimal
-fahrenheit = Math.floor(fahrenheit);
+//myage
+const myAge = 31;
+//first 2 years
+let earlyYears = 2;
+earlyYears = 10.5 * 2;
+//age minus first 2 years
+let laterYears = myAge - 2;
+//converting later years do dog years
+laterYears = (myAge - 2) * 4;
+
+//checking early an later years
+console.log(`${earlyYears}`);
+console.log(`${laterYears}`);
+
+//total age in dog years
+let myAgeInDogYears = laterYears + earlyYears;
+//my name
+let myName = 'John'.toLowerCase();
+//sentence saying myage in dog years
+console.log(`My name is ${myName}. I am ${myAgeInDogYears} years old in dog years.`);
 
 
-console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`);
-console.log(`The temperature is ${newton} degreesNewton.`);
