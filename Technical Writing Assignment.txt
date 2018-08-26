@@ -1,0 +1,11 @@
+Technical Writing Assignment
+
+When we hit https://www.techtonicgroup.com/ what happens? Don’t focus too much on architecture (Monolithic, SOA, Microservices, etc.). Try to focus more on how the web functions.
+From start to finish how does that data reach you to be rendered in the browser?
+What code is rendered in the browser?
+What is the server-side code’s main function?
+What is the client-side code’s main function?
+How many instances of the client-side assets (HTML, CSS, JS, Images, etc.) are created?
+How many instances of the server-side code are available at any given time?
+What is runtime?
+How many instances of the the databases connected to the server application are created?
