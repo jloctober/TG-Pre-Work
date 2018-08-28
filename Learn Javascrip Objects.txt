@@ -4,6 +4,7 @@ let person = {
   weekendAlarm: 'No alarms needed',
   weekAlarm: 'Alarm set to 7AM',
 };
+person.hobbies = ['cooking', 'video games'];
 
 let day = 'Tuesday';
 let alarm;
@@ -17,3 +18,4 @@ if (day === 'Saturday' || day === 'Sunday') {
 console.log(person['name']);
 console.log(person['age']);
 console.log(person[alarm]);
+console.log(person.hobbies);
