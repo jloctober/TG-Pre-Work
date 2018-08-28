@@ -10,6 +10,12 @@ let person = {
     return 'Goodbye!'
   },
 };
+
+let friend = {
+  name: 'Jared',
+};
+friend.sayHello = person.sayHello;
+
 person.hobbies = ['cooking', 'video games'];
 person.hobbies = ['golf'];
 
@@ -27,3 +33,4 @@ console.log(person['age']);
 console.log(person[alarm]);
 console.log(person.hobbies);
 console.log(person.sayHello());
+console.log(friend.sayHello());
