@@ -6,7 +6,9 @@ let person = {
     if (typeof newAge === 'number') {
       this._age = newAge;
     } else {
-      return 'Invalid input';
+      console.log('Invalid input');
     }
   }
 };
+
+person.age = 39;
